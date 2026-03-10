@@ -322,7 +322,7 @@
 
     <!-- Botón Interactivo de Vino -->
     <button id="wine-btn" onclick="showWineEffect()" class="absolute top-[calc(47%+300px)] md:top-[calc(47%+330px)] left-1/2 transform -translate-x-1/2 z-40 text-oro font-serif text-[10px] tracking-[0.25em] uppercase border border-oro/40 px-6 py-2 rounded-full bg-carbon/70 backdrop-blur-md hover:bg-vinoDark/80 hover:text-perla transition-all duration-500 animate-elegant-glow hover:scale-105">
-        Click mé
+        Click Me
     </button>
 
     <!-- Footer / Firma -->
@@ -651,7 +651,7 @@
         const profilesData = {
             epika: {
                 title: "EPIKA",
-                subtitle: "Sofisticación Pura",
+                subtitle: "ID: 777777",
                 img: "https://i.imgur.com/DI7nZDK.png",
                 text: `
                 <div class="flex flex-col items-center w-full">
@@ -666,7 +666,7 @@
             },
             sweet: {
                 title: "SWEET",
-                subtitle: "Alma Cálida",
+                subtitle: "ID: 777777",
                 img: "https://i.imgur.com/4dFqxJ6.jpeg",
                 text: `
                 <div class="flex flex-col items-center w-full">
@@ -679,7 +679,7 @@
             },
             pookie: {
                 title: "POOKIE",
-                subtitle: "Chispa y Aventura",
+                subtitle: "ID: 777777",
                 img: "https://i.imgur.com/9o055dB.png",
                 text: `
                 <div class="flex flex-col items-center w-full">
@@ -862,4 +862,5 @@
 
     </script>
 </body>
+
 </html>
